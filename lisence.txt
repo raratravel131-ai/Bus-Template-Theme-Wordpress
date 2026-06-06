@@ -1,0 +1,17 @@
+Rara Travel & Tour WordPress Theme
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+You may use, modify, and distribute this theme under the GPL terms.
+
+External Resources:
+- Google Fonts: Inter
+  License: SIL Open Font License
+  URL: https://fonts.google.com/specimen/Inter
+- Unsplash image used in demo CSS
+  License: Unsplash License
+  URL: https://unsplash.com/license
+
+Copyright:
+Rara Travel & Tour Theme.
